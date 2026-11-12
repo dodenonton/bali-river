@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <!-- Home Page -->
+  <url>
+    <loc>https://baliriveradventure.com/</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://baliriveradventure.com/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://baliriveradventure.com/?lang=id" />
+  </url>
+
+  <!-- Focus Tour #1: River Tubing -->
+  <url>
+    <loc>https://baliriveradventure.com/tubing.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&amp;fit=crop&amp;w=1200&amp;q=85</image:loc>
+      <image:title>Bali Canyon River Tubing Sanctuary - Secret Canyon &amp; Cave Tubing</image:title>
+    </image:image>
+  </url>
+
+  <!-- Focus Tour #2: White Water Rafting -->
+  <url>
+    <loc>https://baliriveradventure.com/rafting.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1530866495561-507c9faab2ed?auto=format&amp;fit=crop&amp;w=1200&amp;q=85</image:loc>
+      <image:title>Ayung and Telaga Waja White Water Rafting Bali</image:title>
+    </image:image>
+  </url>
+
+  <!-- Focus Tour #3: ATV Quad Bike -->
+  <url>
+    <loc>https://baliriveradventure.com/atv.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&amp;fit=crop&amp;w=1200&amp;q=85</image:loc>
+      <image:title>Ubud Gorilla Cave and Jungle Waterfall ATV Quad Bike Tour</image:title>
+    </image:image>
+  </url>
+
+  <!-- Complementary Tour: Cycling & Trekking by Dewa Bike Tour -->
+  <url>
+    <loc>https://baliriveradventure.com/cycling-trekking.html</loc>
+    <lastmod>2026-11-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&amp;fit=crop&amp;w=1200&amp;q=85</image:loc>
+      <image:title>Kintamani Downhill Cycling and Mount Batur Sunrise Trekking</image:title>
+    </image:image>
+  </url>
+</urlset>

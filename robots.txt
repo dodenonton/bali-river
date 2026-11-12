@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Host & Sitemaps for Bali River Adventure
+Host: https://baliriveradventure.com
+Sitemap: https://baliriveradventure.com/sitemap.xml
